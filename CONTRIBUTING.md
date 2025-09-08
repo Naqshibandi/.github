@@ -1,0 +1,3 @@
+- Use branch por feature: feat/<escopo>, fix/<escopo>, docs/<escopo>.
+- Commits: Conventional Commits (e.g., feat: add book import).
+- PRs: inclua testes, docs e I18n. Siga o checklist do template.
