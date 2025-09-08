@@ -3,7 +3,7 @@
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 
 <center>
-<img style="width:100%;" alt="Ordem Naqshbandi no Brasil" src="./Ordem-Naqshibandi-do-Brasil-Versao-2.png">
+<img style="width:100%;" alt="Ordem Naqshbandi no Brasil" src="../Ordem-Naqshibandi-do-Brasil-Versao-2.png">
 </center>
 
 ## Contato
