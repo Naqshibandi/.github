@@ -3,7 +3,7 @@
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 
 <center>
-<img style="width:100%;" alt="Arvore dos Saberes" src="./logo_naqshibandi_padrao.jpg">
+<img style="width:100%;" alt="Ordem Naqshbandi no Brasil" src="./logo_naqshibandi_padrao.jpg">
 </center>
 
 ## Contato
